@@ -1,4 +1,6 @@
 log
 ===
+yum.log
 
-my log
+TODO:
+auto commit
